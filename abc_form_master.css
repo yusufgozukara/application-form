@@ -18,36 +18,29 @@ legend {
     padding: 5px;
     border-radius: 5px;
 }
-
 .buttons{
     /* padding: 5px; */
 }
-
 .Kis-label {
     display: inline-block;
     margin: 10px;
     width: 150px;
 }
-
 .sektör, .input-right {
     display: inline-block;
     vertical-align: middle;
     margin: 10px;
 }
-
 .sektör {
     width: 200px;
 }
-
 h4{
     padding-left: 50px;
 }
-
 #sozlesme{
     margin: 10px;
     resize: none;
 }
-
 .footer{
     margin: 10px;
 }
